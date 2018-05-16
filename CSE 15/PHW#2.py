@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 12 11:53:54 2018
 
-@author: Dongjun
+@author: whehdwns
 """
 
 def cartesian_product(X, Y):  # This is trivial
