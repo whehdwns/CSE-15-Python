@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 12 11:47:47 2018
 
-@author: Dongjun
+@author: whehdwns
 """
 
 # 1.1 AND (p and q)
