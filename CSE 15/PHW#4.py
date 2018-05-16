@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 12 11:58:05 2018
 
-@author: Dongjun
+@author:whehdwns
 """
 
  #4. Implement Euclid's Algorithm for finding the greatest common divisor of two integers
