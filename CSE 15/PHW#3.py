@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 12 11:56:22 2018
 
-@author: Dongjun
+@author: whehdwns
 """
 #3. Given two sorted lists, it is possible to merge them into one sorted lists
 #in an efficient way. Design and implement a divide and conquer algorithm
